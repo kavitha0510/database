@@ -2,7 +2,8 @@
 SQLyog Ultimate v10.00 Beta1
 MySQL - 5.1.73-community : Database - kavitha
 *********************************************************************
-*/
+*/
+
 
 /*!40101 SET NAMES utf8 */;
 
@@ -52,3 +53,4 @@ insert  into `student`(`stu_id`,`st_name`,`phone num`) values (1,'bhavya',123456
 /*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
 /*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+/*fdfdhhgjhhjjkkjkkj*/
